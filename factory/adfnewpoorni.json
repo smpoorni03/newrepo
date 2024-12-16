@@ -1,0 +1,9 @@
+{
+	"name": "adfnewpoorni",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18821666-ba72-4003-b1af-a75c909d30e7",
+		"tenantId": "95d643e9-45dc-40e2-a3b4-bb67204636c3"
+	}
+}
